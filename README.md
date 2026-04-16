@@ -31,7 +31,7 @@
 <ul>
   <li><b>Atuação Atual:</b> Estagiário de Desenvolvimento Full Stack na <b>Cloud Saúde/Direct Web</b>.</li>
   <li><b>Formação:</b> Graduando em Ciência da Computação pela Universidade Cruzeiro do Sul (Previsão: <b>2027</b>).</li>
-  <li><b>Perfil:</b> Foco absoluto na construção de arquiteturas de Backend robustas, APIs eficientes e modelagem de dados, com capacidade integral de atuar no Front-End para entregas Full Stack de ponta a ponta.</li>
+  <li><b>Perfil:</b> Foco na construção de arquiteturas de Backend robustas, APIs eficientes e modelagem de dados, com capacidade integral de atuar no Front-End para entregas Full Stack de ponta a ponta.</li>
   <li><b>Especialidades:</b> Node.js, PHP (Laravel), Python (Automação/Scraping), Bancos de Dados Relacionais/NoSQL e integrações RESTful.</li>
   <li><b>Metodologia:</b> Código limpo, segurança de rotas, otimização de queries e arquitetura Serverless.</li>
   <li><b>Local:</b> Guarulhos, São Paulo.</li>
