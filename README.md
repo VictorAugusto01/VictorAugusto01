@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Monitoramento+defensivo+inteligente+e+seguran%C3%A7a+ofensiva+na+pr%C3%A1tica;Transformando+dados+e+logs+em+a%C3%A7%C3%B5es+de+prote%C3%A7%C3%A3o+e+resili%C3%AAncia.&v=2" alt="Texto animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Desenvolvimento+Backend+e+Mobile;Criando+soluções+eficientes+e+estruturadas.&v=2" alt="Texto animado" />
 </p>
 
 <h2>💬 Vamos nos conectar</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabrielalex01" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/victor-neves-augusto" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-007E33?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:gabriel.alexandre.oliveira@outlook.com" target="_blank" rel="noreferrer">
+  <a href="mailto:victornevesaugusto@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Email-00A843?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -16,8 +16,8 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=**GabrielAlex01**&label=Profile%20Views&color=00D13B&v=2" alt="Views" />
-  <img src="https://img.shields.io/github/followers/**GabrielAlex01**?label=Followers&color=008A27&v=2" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=VictorAugusto01&label=Profile%20Views&color=00D13B&v=2" alt="Views" />
+  <img src="https://img.shields.io/github/followers/VictorAugusto01?label=Followers&color=008A27&v=2" alt="Followers" />
   <img src="https://img.shields.io/github/stars/VictorAugusto01?label=Stars&color=008A27&v=2" alt="Stars" />
 </p>
 
@@ -26,17 +26,16 @@
 <h2>🧠 Sobre mim</h2>
 
 <ul>
-  <li><b>Atuação:</b> Estagiário de TI e estudante de Ciência da Computação, focado em <b>Cibersegurança</b> e <b>Monitoramento</b>.</li>
-  <li><b>Perfil:</b> Conecto <b>segurança defensiva (Blue Team)</b> com exploração prática de vulnerabilidades <b>(Red Team/VAPT)</b>.</li>
-  <li><b>Especialidades:</b> Zabbix, Wazuh, Firewalls (FortiGate), varreduras de rede e ecossistemas de segurança de endpoint (Cisco/Kaspersky).</li>
-  <li><b>Segurança Ofensiva:</b> Práticas com Kali Linux, Nmap, Wireshark e hardware hacking com ESP32 (BadUSB/Automações).</li>
-  <li><b>Desenvolvimento & Automação:</b> Scripts em Python para segurança e construção de interfaces web com React e TypeScript.</li>
-  <li><b>Local:</b> Guarulhos, São Paulo </li>
+  <li><b>Atuação:</b> Desenvolvedor de Software e estudante de Ciência da Computação (Formação em Dez/2026).</li>
+  <li><b>Perfil:</b> Foco na construção de sistemas escaláveis e interfaces intuitivas, com ênfase no desenvolvimento Backend e Mobile.</li>
+  <li><b>Especialidades:</b> Node.js, PHP (Laravel), Java (Android Nativo), bancos de dados relacionais e Firebase.</li>
+  <li><b>Metodologia:</b> Priorização de código limpo, arquitetura bem definida e boas práticas de UI/UX (Mobile-First).</li>
+  <li><b>Local:</b> Guarulhos, São Paulo.</li>
 </ul>
 
 <p>
-  <b>🎯 Foco de Estudo:</b> Monitoramento (Zabbix, Wazuh), Pentest (Kali, Nmap), Automação (Python, ESP32) e Web (React, TS).<br>
-  <b>🚀 Objetivo:</b> Garantir a disponibilidade e segurança de infraestruturas, antecipando ameaças através de monitoramento inteligente e testes rigorosos.
+  <b>🎯 Foco de Estudo:</b> Aprofundamento em arquitetura de sistemas, Teoria dos Grafos aplicada ao desenvolvimento e otimização de APIs RESTful.<br>
+  <b>🚀 Objetivo:</b> Entregar soluções de software robustas, desde o banco de dados até a experiência do usuário na ponta final.
 </p>
 
 <hr/>
@@ -45,28 +44,15 @@
 
 <div align="center">
   <br>
-  <b>💻 Linguagens & Automação</b><br>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,powershell" alt="Linguagens" /><br><br>
+  <b>💻 Linguagens & Backend</b><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,js,php,laravel,java" alt="Linguagens" /><br><br>
 
-  <b>🛡️ Infraestrutura, SO & Ferramentas</b><br>
-  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,bash,powershell" alt="Infraestrutura" /><br><br>
+  <b>🛡️ Bancos de Dados & Infraestrutura</b><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,docker,linux" alt="Infraestrutura" /><br><br>
 
-  <b>🌐 Desenvolvimento Web</b><br>
-  <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,ts,js,git,github" alt="Dev" />
+  <b>🌐 Desenvolvimento Mobile & Front-end</b><br>
+  <img src="https://skillicons.dev/icons?i=androidstudio,html,css,git,github" alt="Dev" />
 </div>
-
-<hr/>
-
-<h2>📜 Certificações de Destaque</h2>
-
-<ul>
-  <li>🎓 <b>Zabbix 7</b> (Udemy, 2026)</li>
-  <li>🎓 <b>Networking Basics</b> (Cisco Networking Academy, 2026)</li>
-  <li>🎓 <b>Introdução à Cibersegurança</b> (Cisco Networking Academy, 2025)</li>
-  <li>🎓 <b>Exploração de Vulnerabilidades & Varredura de Rede</b> (DIO, 2025)</li>
-  <li>🎓 <b>Santander Cibersegurança 2025</b> (DIO, 2025)</li>
-  <li>🎓 <b>Endpoint Security</b> (Cisco Networking Academy, 2024)</li>
-</ul>
 
 <hr/>
 
@@ -78,24 +64,20 @@
     <th align="left">Destaque Principal</th>
   </tr>
   <tr>
-    <td><b>Monitoramento (Blue Team)</b></td>
-    <td>Zabbix, Wazuh, alertas inteligentes e gestão de logs</td>
+    <td><b>Desenvolvimento Backend</b></td>
+    <td>Node.js, Laravel, APIs RESTful e lógica de negócios.</td>
   </tr>
   <tr>
-    <td><b>Segurança Ofensiva (Red Team)</b></td>
-    <td>Kali Linux, Nmap, VAPT, exploração controlada</td>
+    <td><b>Desenvolvimento Mobile</b></td>
+    <td>Java, Android Studio e arquitetura nativa.</td>
   </tr>
   <tr>
-    <td><b>Infraestrutura & Redes</b></td>
-    <td>FortiGate, roteamento e segurança de endpoint</td>
+    <td><b>Bancos de Dados</b></td>
+    <td>Modelagem e gerenciamento com PostgreSQL e integração com Firebase (BaaS).</td>
   </tr>
   <tr>
-    <td><b>Desenvolvimento Web</b></td>
-    <td>React, TypeScript, criação de dashboards e ferramentas web</td>
-  </tr>
-  <tr>
-    <td><b>Automação & Hardware</b></td>
-    <td>Scripts em Python, laboratórios com ESP32</td>
+    <td><b>Matemática & Lógica</b></td>
+    <td>Aplicação de Teoria dos Grafos e algoritmos avançados na resolução de problemas computacionais.</td>
   </tr>
 </table>
 
@@ -109,20 +91,16 @@
     <th align="left">Aplicação Prática</th>
   </tr>
   <tr>
-    <td><b>Abordagem Red Team / Blue Team</b></td>
-    <td>Entendo como vulnerabilidades são exploradas para configurar defesas mais robustas.</td>
+    <td><b>Visão Full-Stack</b></td>
+    <td>Compreensão de todo o ciclo de vida da aplicação, do modelo de dados ao design de interface.</td>
   </tr>
   <tr>
-    <td><b>Labs Práticos</b></td>
-    <td>Testo conceitos em ambientes controlados (VMs, servidores próprios) antes de levar a produção.</td>
+    <td><b>Foco em Mobile-First</b></td>
+    <td>Desenvolvimento de layouts e sistemas priorizando a performance e usabilidade em dispositivos móveis.</td>
   </tr>
   <tr>
-    <td><b>Análise de Logs e Resposta a Incidentes</b></td>
-    <td>Investigação profunda de logs e anomalias para não deixar falsos positivos passarem.</td>
-  </tr>
-  <tr>
-    <td><b>Iniciativa com Hardware</b></td>
-    <td>Uso de microcontroladores (ESP32) para explorar vetores físicos e ataques em redes sem fio.</td>
+    <td><b>Base Teórica Sólida</b></td>
+    <td>Utilização de conceitos de Ciência da Computação para otimizar queries, estrutura de dados e arquitetura.</td>
   </tr>
 </table>
 
@@ -136,23 +114,8 @@
 
 <hr/>
 
-<h2>🌍 Aberto a oportunidades</h2>
-
-<p>
-<b>Cargos:</b><br>
-- Analista de Cibersegurança (Júnior)<br>
-- Assistente de Zabbix / Monitoramento<br>
-- Analista de Pentest / Segurança Ofensiva<br>
-- Suporte de Infraestrutura<br><br>
-
-<b>Modelos:</b> Remoto, Híbrido, Presencial<br>
-<b>Local:</b> Guarulhos, SP — Brasil
-</p>
-
-<hr/>
-
 <p align="center">
-  Acesse os links abaixo para saber mais sobre a minha jornada:
+  Acesse os links abaixo para saber mais sobre a minha jornada e projetos recentes (como a plataforma GLIS):
 </p>
 
 <p align="center">
@@ -162,8 +125,4 @@
   <a href="https://github.com/VictorAugusto01?tab=repositories" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Repositórios%20e%20Labs-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
   </a>
-</p>
-
-<p align="center">
-  📧 <b>Email:</b> <a href="mailto:gabriel.alexandre.oliveira@outlook.com">gabriel.alexandre.oliveira@outlook.com</a><br>
 </p>
