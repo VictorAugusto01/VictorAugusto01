@@ -131,7 +131,7 @@
 <h2>📈 Atividade & gráficos</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielAlex01&bg_color=0D1117&color=C9D1D9&line=00D13B&point=00D13B&area=true&hide_border=true&v=2" alt="Gráfico de atividade" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorAugusto01&bg_color=0D1117&color=C9D1D9&line=00D13B&point=00D13B&area=true&hide_border=true&v=2" alt="Gráfico de atividade" />
 </p>
 
 <hr/>
