@@ -16,9 +16,9 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GabrielAlex01&label=Profile%20Views&color=00D13B&v=2" alt="Views" />
-  <img src="https://img.shields.io/github/followers/GabrielAlex01?label=Followers&color=008A27&v=2" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/GabrielAlex01?label=Stars&color=008A27&v=2" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=**GabrielAlex01**&label=Profile%20Views&color=00D13B&v=2" alt="Views" />
+  <img src="https://img.shields.io/github/followers/**GabrielAlex01**?label=Followers&color=008A27&v=2" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/VictorAugusto01?label=Stars&color=008A27&v=2" alt="Stars" />
 </p>
 
 <hr/>
@@ -156,10 +156,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabrielalex01" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/VictorAugusto01" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-007E33?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/GabrielAlex01?tab=repositories" target="_blank" rel="noreferrer">
+  <a href="https://github.com/VictorAugusto01?tab=repositories" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Repositórios%20e%20Labs-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
   </a>
 </p>
