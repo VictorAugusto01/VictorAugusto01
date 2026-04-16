@@ -29,7 +29,7 @@
 <h2>🧠 Sobre mim</h2>
 
 <ul>
-  <li><b>Atuação Atual:</b> Estagiário de Desenvolvimento Full Stack na <b>CloudSaude</b>.</li>
+  <li><b>Atuação Atual:</b> Estagiário de Desenvolvimento Full Stack na <b>Cloud Saude/DirectWeb</b>.</li>
   <li><b>Formação:</b> Graduando em Ciência da Computação pela Universidade Cruzeiro do Sul (Previsão: <b>2027</b>).</li>
   <li><b>Perfil:</b> Desenvolvedor focado em criar aplicações web robustas (Front e Back-End), otimizar processos via código e integrar Inteligência Artificial.</li>
   <li><b>Especialidades:</b> Node.js, React, APIs RESTful, Web Scraping avançado (Python) e gerenciamento de bancos de dados relacionais e NoSQL.</li>
