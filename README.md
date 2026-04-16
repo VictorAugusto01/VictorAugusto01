@@ -156,7 +156,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/VictorAugusto01" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/victor-neves-augusto" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-007E33?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/VictorAugusto01?tab=repositories" target="_blank" rel="noreferrer">
