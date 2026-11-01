@@ -1,39 +1,29 @@
 <p align="center">
-  <img src="./header.svg" alt="Victor Neves — desenvolvimento full stack e Ciência da Computação" width="100%" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="./perfil-mobile-v5.svg" />
+    <img src="./perfil-desktop-v5.svg" alt="Victor Neves — desenvolvedor full stack e estudante de Ciência da Computação. Avatar azul e preto, apresentação pessoal e stack." width="100%" />
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://github.com/VictorAugusto01?tab=repositories">Projetos</a> ·
-  <a href="https://www.linkedin.com/in/victor-neves-augusto/">LinkedIn</a> ·
-  <a href="https://portfolio-victor-neves.netlify.app/">Portfólio</a>
+  <a href="https://github.com/VictorAugusto01" title="GitHub"><img src="./github.svg" alt="GitHub" width="36" height="36" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/victor-neves-augusto/" title="LinkedIn"><img src="./linkedin.svg" alt="LinkedIn" width="36" height="36" /></a>&nbsp;
+  <a href="https://www.instagram.com/neves.sla/" title="Instagram"><img src="./instagram.svg" alt="Instagram" width="36" height="36" /></a>&nbsp;
+  <a href="https://portfolio-victor-neves.netlify.app/" title="Portfólio"><img src="./portfolio.svg" alt="Portfólio" width="36" height="36" /></a>&nbsp;
+  <a href="mailto:victornevesaugusto@gmail.com" title="E-mail"><img src="./mail.svg" alt="E-mail" width="36" height="36" /></a>
 </p>
 
-## Olá, eu sou o Victor
-
-Sou desenvolvedor full stack e estudante de Ciência da Computação. Gosto de entender o problema, organizar os dados e construir uma solução que seja simples de usar e manter. Meu foco hoje está em backend, APIs e integração com interfaces web.
-
-### Tecnologias que uso
-
-`PHP` · `Laravel` · `JavaScript` · `TypeScript` · `Node.js` · `Python` · `PostgreSQL` · `MySQL`
-
-### Projetos públicos
-
-- **[API de prontuários](https://github.com/VictorAugusto01/teste-api-prontuarios)** — API REST em Laravel com autenticação e separação de responsabilidades. Projeto de teste técnico.
-- **[Roteamento de ambulâncias](https://github.com/VictorAugusto01/ambul-ncia_atividade)** — aplicativo Android em Java desenvolvido em equipe como projeto acadêmico; usa busca em largura para localizar uma rota até um hospital com leitos disponíveis.
-- **[Dia das Mulheres](https://github.com/VictorAugusto01/dia-das-mulheres)** — página interativa feita com HTML, CSS e JavaScript. Um projeto pessoal que também mostra meu cuidado com a experiência de quem usa.
+<p align="center">
+  <sub>PROJETOS PÚBLICOS</sub><br />
+  <a href="https://github.com/VictorAugusto01/teste-api-prontuarios">API de prontuários</a> &nbsp;·&nbsp;
+  <a href="https://github.com/VictorAugusto01/ambul-ncia_atividade">Roteamento de ambulâncias</a> &nbsp;·&nbsp;
+  <a href="https://github.com/VictorAugusto01/dia-das-mulheres">Dia das Mulheres</a>
+</p>
 
 <details>
-  <summary>O que estou estudando agora</summary>
+  <summary>Um pouco sobre esses projetos</summary>
   <br />
-  DevOps, cloud, arquitetura de serviços e segurança de APIs.
+  <strong>API de prontuários:</strong> teste técnico de uma API REST em Laravel com autenticação.<br />
+  <strong>Roteamento de ambulâncias:</strong> aplicativo Android em Java feito em equipe como projeto acadêmico; usa busca em largura para encontrar uma rota até um hospital com leitos disponíveis.<br />
+  <strong>Dia das Mulheres:</strong> página interativa pessoal em HTML, CSS e JavaScript.
 </details>
-
-### Vamos conversar
-
-<a href="https://www.linkedin.com/in/victor-neves-augusto/">LinkedIn</a> ·
-<a href="https://portfolio-victor-neves.netlify.app/">Portfólio</a> ·
-<a href="mailto:victornevesaugusto@gmail.com">E-mail</a>
-
-<p align="right">
-  <img src="./gato-fantasma.png" alt="Gato fantasma azul" width="54" />
-</p>
