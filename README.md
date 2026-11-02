@@ -40,11 +40,12 @@ Sou o Victor, desenvolvedor full stack e estudante de Ciência da Computação n
 
 <details>
   <summary><b>Sobre esses projetos</b></summary>
-  <br/>
-  - **API de prontuários:** desenvolvida como teste técnico, com Laravel, autenticação e separação de responsabilidades.
-  - **Roteamento de ambulâncias:** aplicativo Android desenvolvido **em equipe** como projeto acadêmico, utilizando busca em largura (BFS).
-  - **Dia das Mulheres:** página interativa pessoal com HTML, CSS e JavaScript.
-  - **Portfólio pessoal:** apresentação de projetos e experiências de desenvolvimento.
+
+- **API de prontuários:** desenvolvida como teste técnico, com Laravel, autenticação e separação de responsabilidades.
+- **Roteamento de ambulâncias:** aplicativo Android desenvolvido **em equipe** como projeto acadêmico, utilizando busca em largura (BFS).
+- **Dia das Mulheres:** página interativa pessoal com HTML, CSS e JavaScript.
+- **Portfólio pessoal:** apresentação de projetos e experiências de desenvolvimento.
+
 </details>
 
 ### Contato
