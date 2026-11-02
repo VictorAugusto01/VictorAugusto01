@@ -51,10 +51,11 @@ Sou o Victor, desenvolvedor full stack e estudante de Ciência da Computação n
 ### Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/victor-neves-augusto/">LinkedIn</a> &nbsp; • &nbsp;
-  <a href="https://portfolio-victor-neves.netlify.app/">Portfólio</a> &nbsp; • &nbsp;
-  <a href="mailto:victornevesaugusto@gmail.com">E-mail</a> &nbsp; • &nbsp;
-  <a href="https://www.instagram.com/neves.sla/">Instagram</a>
+  <a href="https://github.com/VictorAugusto01"><img src="./assets/contact-github.svg" width="36" height="36" alt="GitHub — VictorAugusto01" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/victor-neves-augusto/"><img src="./assets/contact-linkedin.svg" width="36" height="36" alt="LinkedIn — Victor Neves" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/neves.sla/"><img src="./assets/contact-instagram.svg" width="36" height="36" alt="Instagram — neves.sla" /></a>&nbsp;&nbsp;
+  <a href="https://portfolio-victor-neves.netlify.app/"><img src="./assets/contact-portfolio.svg" width="36" height="36" alt="Portfólio pessoal" /></a>&nbsp;&nbsp;
+  <a href="mailto:victornevesaugusto@gmail.com"><img src="./assets/contact-email.svg" width="36" height="36" alt="E-mail — victornevesaugusto@gmail.com" /></a>
 </p>
 
 <p align="center">
