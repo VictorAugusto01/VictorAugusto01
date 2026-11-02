@@ -1,29 +1,62 @@
+<!-- Identidade visual original: azul elétrico e preto. Sem CSS ou JavaScript executável. -->
 <p align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="./perfil-mobile-v5.svg" />
-    <img src="./perfil-desktop-v5.svg" alt="Victor Neves — desenvolvedor full stack e estudante de Ciência da Computação. Avatar azul e preto, apresentação pessoal e stack." width="100%" />
-  </picture>
+  <img src="./assets/hero.svg" width="100%" alt="Victor Neves — desenvolvedor full stack e estudante de Ciência da Computação, com avatar ilustrado azul" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/VictorAugusto01" title="GitHub"><img src="./github.svg" alt="GitHub" width="36" height="36" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/victor-neves-augusto/" title="LinkedIn"><img src="./linkedin.svg" alt="LinkedIn" width="36" height="36" /></a>&nbsp;
-  <a href="https://www.instagram.com/neves.sla/" title="Instagram"><img src="./instagram.svg" alt="Instagram" width="36" height="36" /></a>&nbsp;
-  <a href="https://portfolio-victor-neves.netlify.app/" title="Portfólio"><img src="./portfolio.svg" alt="Portfólio" width="36" height="36" /></a>&nbsp;
-  <a href="mailto:victornevesaugusto@gmail.com" title="E-mail"><img src="./mail.svg" alt="E-mail" width="36" height="36" /></a>
+  <a href="#sobre-mim">Sobre mim</a> &nbsp;·&nbsp;
+  <a href="#tecnologias">Stack</a> &nbsp;·&nbsp;
+  <a href="#projetos">Projetos</a> &nbsp;·&nbsp;
+  <a href="#contato">Contato</a>
 </p>
 
+### Sobre mim
+
+Sou o Victor, desenvolvedor full stack e estudante de Ciência da Computação na Universidade Cruzeiro do Sul. Gosto de trabalhar com **APIs, dados e interfaces**, pensando tanto na estrutura do código quanto na experiência de quem usa.
+
+### Tecnologias
+
 <p align="center">
-  <sub>PROJETOS PÚBLICOS</sub><br />
-  <a href="https://github.com/VictorAugusto01/teste-api-prontuarios">API de prontuários</a> &nbsp;·&nbsp;
-  <a href="https://github.com/VictorAugusto01/ambul-ncia_atividade">Roteamento de ambulâncias</a> &nbsp;·&nbsp;
-  <a href="https://github.com/VictorAugusto01/dia-das-mulheres">Dia das Mulheres</a>
+  <img src="./assets/stack.svg" alt="Minha stack: PHP, Laravel, JavaScript, TypeScript, Python, PostgreSQL, MySQL e Docker" width="100%" />
 </p>
 
 <details>
-  <summary>Um pouco sobre esses projetos</summary>
-  <br />
-  <strong>API de prontuários:</strong> teste técnico de uma API REST em Laravel com autenticação.<br />
-  <strong>Roteamento de ambulâncias:</strong> aplicativo Android em Java feito em equipe como projeto acadêmico; usa busca em largura para encontrar uma rota até um hospital com leitos disponíveis.<br />
-  <strong>Dia das Mulheres:</strong> página interativa pessoal em HTML, CSS e JavaScript.
+  <summary><b>O que estou explorando atualmente?</b></summary>
+  <br/>
+  Aprofundando meus conhecimentos em arquitetura de software, DevOps, cloud e segurança de APIs, além de projetos pessoais em desenvolvimento web e automação.
 </details>
+
+### Projetos
+
+<!-- Cada card é uma imagem clicável. As informações técnicas e a origem foram descritas com transparência. -->
+<p align="center">
+  <a href="https://github.com/VictorAugusto01/teste-api-prontuarios"><img src="./assets/card-api.svg" width="49%" alt="API de prontuários — teste técnico em Laravel" /></a>
+  <a href="https://github.com/VictorAugusto01/ambul-ncia_atividade"><img src="./assets/card-android.svg" width="49%" alt="Roteamento de ambulâncias — projeto acadêmico em equipe" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/VictorAugusto01/dia-das-mulheres"><img src="./assets/card-web.svg" width="49%" alt="Dia das Mulheres — projeto pessoal de página interativa" /></a>
+  <a href="https://portfolio-victor-neves.netlify.app/"><img src="./assets/card-portfolio.svg" width="49%" alt="Portfólio pessoal — site" /></a>
+</p>
+
+<details>
+  <summary><b>Sobre esses projetos</b></summary>
+  <br/>
+  - **API de prontuários:** desenvolvida como teste técnico, com Laravel, autenticação e separação de responsabilidades.
+  - **Roteamento de ambulâncias:** aplicativo Android desenvolvido **em equipe** como projeto acadêmico, utilizando busca em largura (BFS).
+  - **Dia das Mulheres:** página interativa pessoal com HTML, CSS e JavaScript.
+  - **Portfólio pessoal:** apresentação de projetos e experiências de desenvolvimento.
+</details>
+
+### Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/victor-neves-augusto/">LinkedIn</a> &nbsp; • &nbsp;
+  <a href="https://portfolio-victor-neves.netlify.app/">Portfólio</a> &nbsp; • &nbsp;
+  <a href="mailto:victornevesaugusto@gmail.com">E-mail</a> &nbsp; • &nbsp;
+  <a href="https://www.instagram.com/neves.sla/">Instagram</a>
+</p>
+
+<p align="center">
+  <img src="./assets/gato-flutuando.gif" width="96" alt="Mascote: gato fantasma azul flutuando" />
+</p>
+<p align="center"><sub>Construir. Aprender. Ajustar. Repetir.</sub></p>
